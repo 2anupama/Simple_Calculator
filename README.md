@@ -19,3 +19,5 @@ UI Components: Toast, Snackbar, Material Design
 📌 Contributions
 Feel free to fork, modify, and create a pull request to improve the project!
 
+## 📱 App Demo
+![App Demo](assets/app_demo.gif)
